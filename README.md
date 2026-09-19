@@ -1,1 +1,1 @@
-# Cosicol_Assignment_NFA
+# Cosicol_Automata_Assignment
